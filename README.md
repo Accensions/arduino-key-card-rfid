@@ -1,2 +1,2 @@
-<h1>hi<h1>
-<img src=cucuit.png>
+<h1><h1>
+<img src=curcuit.png>
